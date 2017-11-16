@@ -154,7 +154,7 @@ img#logo {
 .navbar-nav > li > a:hover,
 .navbar-nav > li > a:focus,
 .navbar-nav > li.open {
-  color: #fff;
+  color: #419bdc;
   background-color: rgba(0,0,0,0)
 }
 
@@ -648,6 +648,7 @@ div#quote {
 	/* border-top-style: solid; */
 	/* padding-bottom: 20px; */
 	padding-top: 20px;
+  height: 80vh;
 	/* background-attachment: fixed; */
 	/* background-color: #ffffff; */
 	/* background-position: left top; */
@@ -786,7 +787,7 @@ button.btn.btn-primary.dropdown-toggle {
 /*********************************************************************************/
 
 #footer {
-  padding: 6em 0em;
+  height: 10vh;
 	background-color: #121212;
 	text-align: center;
 }
@@ -799,7 +800,7 @@ button.btn.btn-primary.dropdown-toggle {
 	position: relative;
 	text-align: center;
 	background-color: #121212;
-	padding-bottom: 3.5em;
+  height: 12vh;
 }
 
 #copyright .container {
